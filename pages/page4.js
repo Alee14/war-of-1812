@@ -14,6 +14,7 @@ export default function Home() {
         <h1>Where did this happen?</h1>
         <p>The Canadian–American frontier and the Great Lakes region<br/>The Atlantic and Gulf of Mexico coasts of North America<br/>The Atlantic Ocean</p>
         <img src="https://lh3.googleusercontent.com/proxy/jokzi7NoVX1Pi0aDmLOichq03Oy0exLjwPQkzmrtK_RAaSCtT3adqkWJOexRIAb65r3NC-E2fM3aPMsF8oTMB3BCwTUbn1yb6we9rksM2S0KDFjg_018s4GBHwQ7EkWMuNtwy8KQ0g" />
+        <br />
         <Button variant="contained" color="primary" href="page5">Next Page</Button>
       </main>
     </div>
