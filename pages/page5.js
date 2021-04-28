@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>The Cause Of This War</h1>
-        <p>The British blocked American ships to enter Europe and American ships were forced to join the Royal Navy.</p>
-        <img src="https://www.maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/warships-war-of-1812.351492.jpg"/>
+        <h1>When did it happen?</h1>
+        <p>June 1812 to February 1815</p>
+        <img src="https://i2.wp.com/niagarapoetry.ca/wp-content/uploads/2018/01/war-1812.png?fit=1149%2C760" width="50%" height="50%"/>
         <br />
-        <Button variant="contained" color="primary" href="page3">Next Page</Button>
+        <Button variant="contained" color="primary" href="page6">Next Page</Button>
       </main>
     </div>
   )
